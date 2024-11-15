@@ -1,7 +1,7 @@
 ---
 title: Rust - Password Checker
 date: "2024-11-10T22:40:32.169Z"
-description: A small game I made through pygame which uses an A* algorithm
+description: Password storage program made in rust
 ---
 
 This is a program that takes a username and password and stores it for later use it's programmed in the [rust programming language](https://www.rust-lang.org/). This is due to it's fast compile time and guaranteed memory safety in it's program.
